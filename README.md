@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CamelGoong
 - 👀 I’m interested in AI python Coding!
-- 🌱 I’m currently learning AI python Coding!
-- 💞️ I’m looking to collaborate on AI project!
+- 🌱 I’m currently learning Data Science Analysis & AI in Postec Univ. as a master program!
+- 💞️ I’m looking to collaborate on Data Science Analysis & AI project!
 - 📫 How to reach me through goong0405@gmail.com
 
 <!---
